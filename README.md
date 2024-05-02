@@ -1,1 +1,1 @@
-# hair-loss
+The purpose of this project is exploratory data analysis, modelling and predictive analysis activities in order to understand the relationship between various factors and the probability of baldness in individuals.
